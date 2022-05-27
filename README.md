@@ -1,0 +1,2 @@
+# palindrome
+palindrome with JavaScript 
